@@ -1,7 +1,7 @@
 # LESS is Beautiful
 
 Ce dépôt contient le code source relatif à l'épisode 5 de notre chaîne [inpulse.tv](https://www.inpulse.tv) dédié au langage de préprocessing **LESS** :
-- [ep.5 - LESS is Beautiful - [LESS partie.1] [1ntro] [#devtech]](https://www.youtube.com/watch?v=oNJdi28ST-Y&list=PLORtqNVm6r7CkRoQ_mxLB-QDhm-8nR3ov&index=1)
+- [LESS is Beautiful  - [LESS partie.1]  [1ntro]  [#devtech]  [ep.5]](https://www.youtube.com/watch?v=oNJdi28ST-Y&list=PLORtqNVm6r7CkRoQ_mxLB-QDhm-8nR3ov&index=1)
 
 Il contient le code source permettant de réaliser et suivre le tutoriel de la vidéo.
 
